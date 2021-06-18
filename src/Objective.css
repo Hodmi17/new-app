@@ -1,0 +1,11 @@
+.obj{
+        border:solid 1px black;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        background-color: #834b36;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        
+}
+    
